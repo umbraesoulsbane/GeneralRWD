@@ -1,0 +1,59 @@
+#bg {
+    width: 100%;
+    min-width: 100%;
+    background-size: 200%;
+    background-position-x: top;
+}
+#wrap {
+    width: 100%;
+}
+#content {
+    width: 100%;
+}
+#header img {
+    width: 100%;
+    height: auto;
+}
+#callToAction {
+    font-size: 1.5em;
+}
+#callToAction .floatLeft, #callToAction .floatRight, 
+#threeColumnInfo .column {
+    float: none;
+}
+
+#callToAction .floatLeft {
+    width: 100%;
+    margin: 0 auto 25px auto;
+}
+#callToAction .floatRight {
+    width: 100%;
+    margin: 0 auto;
+}
+#callToAction .floatRight #accountMenu {
+    margin: 20px 0px;
+}
+#callToAction .floatRight iframe {
+    width: 100%;
+}
+#aboutInfo #sota-desc-long {
+    width: 95%;
+}
+#threeColumnInfo {
+    margin: 0 auto;
+}
+#threeColumnInfo .award .awardLogo {
+    display: none;
+}
+#threeColumnInfo .column {
+    margin: 10px auto 35px auto;
+}
+#sota-desc-long .landing-page-title {
+    font-size: 1.5em;
+}
+.colorCrestLink a:link, .colorCrestLink a:active, .colorCrestLink a:visited {
+    font-size: .7em;
+}
+.colorCrestLink a.subCrestLink:link, .colorCrestLink a.subCrestLink:active, .colorCrestLink a.subCrestLink:visited {
+    font-size: 1em;
+}
